@@ -83,19 +83,29 @@ This task helps visualize employee performance metrics, detect departmental tren
 For = 
 
 1. Rank employees by SCORE within each DEPARTMENT Output
+
 ![Image](https://github.com/user-attachments/assets/1bd58b70-0a10-4f6a-b1e1-314d213e9e6e)
 
 2. Employees who scored above department average output
+
 ![Image](https://github.com/user-attachments/assets/74f34dd4-1c75-46e5-91a1-d87f33f6a0db)
 
 3. Top scorer in each department output
 
+![Image](https://github.com/user-attachments/assets/e00340b3-0343-4429-b7c2-d640f687bd2d)
 
 4. Average score by department output
 
+![Image](https://github.com/user-attachments/assets/9075f0cf-de53-427f-9299-7f6ab18c2e14)
+
 5. Monthly average score trend output
+
+![Image](https://github.com/user-attachments/assets/1df61d4e-a492-4738-8eca-419f94d5474f)
 
 6. Employees who scored above overall average output
 
+![Image](https://github.com/user-attachments/assets/2bb29b5b-67d0-45ab-a417-2f7baab08342)
+
 7. Department-wise score distribution output
 
+![Image](https://github.com/user-attachments/assets/dd76d461-e534-4df7-a0ba-0def58b59a7c)
