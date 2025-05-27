@@ -76,6 +76,67 @@ Score Distribution: Provides a breakdown of scores per department.
 
 ![Image](https://github.com/user-attachments/assets/d4c7e53a-8067-444f-a2a7-3e5bdc54adc8)
 
+# 📘 Concepts Used
+
+CREATE TABLE
+
+Used to define a structured table (EMPLOYEE_SCORES) with appropriate data types such as NUMBER, VARCHAR2, and DATE.
+
+INSERT INTO
+
+Inserted individual records into the table to simulate real-world employee performance data.
+
+SELECT
+
+Used to retrieve specific columns or all data from the table.
+
+WHERE Clause
+
+Filtered data based on conditions like score greater than average or department-specific filtering.
+
+GROUP BY
+
+Aggregated data by department or time (month) to find trends and summaries like average scores.
+
+ORDER BY
+
+Sorted data in ascending or descending order for better analysis of patterns.
+
+Window Functions (RANK() OVER)
+
+Applied to rank employees within each department based on their score without grouping the data.
+
+CTE (WITH Clause)
+
+Used for cleaner and modular queries by defining temporary result sets for further use in the main query.
+
+# 💡 What I Learned
+
+How to create and populate tables in Oracle SQL.
+
+Writing analytical queries using RANK() and window functions.
+
+Understanding how to filter and compare data using subqueries.
+
+Applying GROUP BY with aggregation functions like AVG() to extract insights.
+
+Using CTE (Common Table Expressions) to simplify complex queries.
+
+Importance of date formatting (TO_DATE) when working with temporal data.
+
+# 🛠️ Skills Practiced
+
+Designing SQL tables for real-world scenarios.
+
+Writing clean and meaningful SELECT queries.
+
+Performing department-level and time-based performance analysis.
+
+Using advanced SQL features to identify top performers, score trends, and above-average contributors.
+
+Enhancing data interpretation using SQL joins and functions.
+
+
 # ✅ Outcome
 
 This task helps visualize employee performance metrics, detect departmental trends, and identify top performers using advanced SQL queries in Oracle. It demonstrates effective use of SQL for real-time data analysis and reporting.
