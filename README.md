@@ -32,7 +32,7 @@ DEPARTMENT (Department Name)
 SCORE (Performance Score)
 
 REVIEW_DATE (Date of Review)
-
+![Image](https://github.com/user-attachments/assets/5e99be86-e0f1-47f1-a937-eab086ccd7f2)
 # 📥 Sample Data
 
 The table includes 15 rows of sample employee data across different departments like Sales, HR, IT, and Marketing with varying scores and review dates.
