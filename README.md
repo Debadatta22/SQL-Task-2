@@ -1,2 +1,14 @@
 # SQL-Task-2
 CODTECH INTERNSHIP TASK-2 SOLUTIONS(using window functions, subqueries, and CTEs)
+
+# PERFORMED & SUBMITTED BY:
+
+--TASK PERFORMED BY: DEBADATTA ROUT
+
+--Intern ID : CT04DN790
+
+--DOMAIN: SQL
+
+--DURATION: 4 WEEKS
+
+--MENTOR: Neela Santhosh
